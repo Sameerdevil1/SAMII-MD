@@ -6,9 +6,9 @@ const require = createRequire(import.meta.url);
 
 const DATABASE_URL = process.env.DATABASE_URL || './database.db';
 const config = {
-	SESSION_ID: process.env.SESSION_ID || '',
+	SESSION_ID: process.env.SESSION_ID || 'XSTRO_00_88_54',
 	PREFIX: process.env.PREFIX || '.',
-	SUDO: process.env.SUDO || '',
+	SUDO: process.env.SUDO || '923446437286',
 	// MENU_IMAGE_URL: 'https://avatars.githubusercontent.com/u/188756392?v=4', // add your images url if u want bot menu with image 
     //     MENU_DESIGN: 1, // 1 = Menu with image, 2 = Menu without image  pick style 1 if u want menu with image 
 	BOT_INFO: process.env.BOT_INFO || 'Sameer;SAMII-𝙱𝚘𝚝',
