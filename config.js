@@ -11,8 +11,8 @@ const config = {
 	SUDO: process.env.SUDO || '',
 	// MENU_IMAGE_URL: 'https://avatars.githubusercontent.com/u/188756392?v=4', // add your images url if u want bot menu with image 
     //     MENU_DESIGN: 1, // 1 = Menu with image, 2 = Menu without image  pick style 1 if u want menu with image 
-	BOT_INFO: process.env.BOT_INFO || '𝙰𝚜𝚝𝚛𝚘;𝚇𝚜𝚝𝚛𝚘-𝙱𝚘𝚝',
-	STICKER_PACK: process.env.STICKER_PACK || 'xʂƚɾσ;Ⴆσƚ',
+	BOT_INFO: process.env.BOT_INFO || 'Sameer;SAMII-𝙱𝚘𝚝',
+	STICKER_PACK: process.env.STICKER_PACK || 'SAMII;Ⴆσƚ',
 	HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
 	HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
 	MUTE_MSG: process.env.MUTE_MSG || '```Group has been muted, due to AutoMute```',
