@@ -1,8 +1,8 @@
 {
-   "name": "xstro",
+   "name": "Sameer",
    "description": "Simple WA bot",
    "logo": "https://avatars.githubusercontent.com/u/188756392?v=4",
-   "repository": "https://github.com/ASTRO-X10/xstro-md",
+   "repository": "https://github.com/Sameerdevil1/SAMII-MD",
    "env": {
       "HEROKU_API_KEY": {
          "description": "Heroku Account Api Key",
@@ -36,7 +36,7 @@
       },
       "BOT_INFO": {
          "description": "Information about the bot, such as version or ID.",
-         "value": "Astro;Xstro-Md;",
+         "value": "Sameer;SAMII-MD;",
          "required": false
       },
       "MODE": {
